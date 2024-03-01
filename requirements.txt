@@ -1,2 +1,3 @@
+gsheets-connection
 GSheetsConnection
 streamlit_gsheets
